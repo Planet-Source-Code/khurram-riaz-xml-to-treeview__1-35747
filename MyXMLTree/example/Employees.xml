@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<!DOCTYPE XmlEmployees SYSTEM "Employees.dtd">
+<XmlEmployees>
+	<XmlEmployee>
+		<EmpNo>2</EmpNo>
+		<FirstName>Robert</FirstName>
+		<LastName>Nelson</LastName>
+		<PhoneExt>250</PhoneExt>
+		<HireDate>1988-12-28</HireDate>
+		<DeptNo>600</DeptNo>
+		<JobCode>VP</JobCode>
+		<JobGrade>2</JobGrade>
+		<JobCountry>USA</JobCountry>
+		<Salary>105900.000000</Salary>
+		<FullName>Nelson, Robert</FullName>
+	</XmlEmployee>
+	<XmlEmployee>
+		<EmpNo>4</EmpNo>
+		<FirstName>Bruce</FirstName>
+		<LastName>Young</LastName>
+		<PhoneExt>233</PhoneExt>
+		<HireDate>1988-12-28</HireDate>
+		<DeptNo>621</DeptNo>
+		<JobCode>Eng</JobCode>
+		<JobGrade>2</JobGrade>
+		<JobCountry>USA</JobCountry>
+		<Salary>97500.000000</Salary>
+		<FullName>Young, Bruce</FullName>
+	</XmlEmployee>
+	<XmlEmployee>
+		<EmpNo>5</EmpNo>
+		<FirstName>Kim</FirstName>
+		<LastName>Lambert</LastName>
+		<PhoneExt>22</PhoneExt>
+		<HireDate>1989-02-06</HireDate>
+		<DeptNo>130</DeptNo>
+		<JobCode>Eng</JobCode>
+		<JobGrade>2</JobGrade>
+		<JobCountry>USA</JobCountry>
+		<Salary>102750.000000</Salary>
+		<FullName>Lambert, Kim</FullName>
+	</XmlEmployee>
+</XmlEmployees>

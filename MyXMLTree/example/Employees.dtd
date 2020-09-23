@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT XmlEmployee (EmpNo, FirstName, LastName, PhoneExt, HireDate, DeptNo, JobCode, JobGrade, JobCountry, Salary, FullName)>
+<!ELEMENT DeptNo (#PCDATA)>
+<!ELEMENT EmpNo (#PCDATA)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT FullName (#PCDATA)>
+<!ELEMENT HireDate (#PCDATA)>
+<!ELEMENT JobCode (#PCDATA)>
+<!ELEMENT JobCountry (#PCDATA)>
+<!ELEMENT JobGrade (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT PhoneExt (#PCDATA)>
+<!ELEMENT Salary (#PCDATA)>
+<!ELEMENT XmlEmployees (XmlEmployee+)>
